@@ -59,12 +59,6 @@ The required database and tables are created automatically by the Python script.
 - Your password is updated in the script
 - MySQL service is running
 
-## 👨‍💻 Author
-
-**Prince Mathur**  
-Class XII – A  
-Computer Science Project (2021-22)
-
 ## 📃 License
 
 This project is intended for educational purposes only.
