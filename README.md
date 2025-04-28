@@ -19,7 +19,7 @@ This project is a simulation of the traditional Housie/Tambola game. It includes
 ## 📂 Folder Structure
 
 ```
-📁 Prince Mathur CS Project Xll A 2021-22 Housie
+📁 Bingo
 ├── Game.py             # Main game script
 ├── *.mp3 / *.m4a       # Audio files for number announcements
 ```
